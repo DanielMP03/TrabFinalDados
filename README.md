@@ -5,7 +5,7 @@
   <ul>
     <li>Trabalho de "ESTUDOS DE CASOS EM DATA SCIENCE APLICADO A NEGÓCIOS"</li>
     <li>4° Semestre de Economia e Administação.</li>
-    <li>Pelo "Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa"</li>
+    <li>Pelo "Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa".</li>
     <li>Essa é a primeira parte, de 1/2, do trabalho final da diciplina.</li>
     <li>Deixo aqui, um agradecimento especial aos contribuintes. Tks!</li>
   <ul>
@@ -44,3 +44,5 @@
 - Bernardo Dias > (https://github.com/bernardodso/TrabDados4S)
 
 - Lucas Rocha > (https://github.com/lucasRtorres/Trabalho1---an-lise-de-dados)
+  
+- Daniel Martinez > (https://github.com/DanielMP03/Trabalho-Data-Science)
